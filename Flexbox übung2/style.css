@@ -1,0 +1,59 @@
+.blaue{
+    position:relative;
+    background-color: blue;
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.text{
+    padding: 20px;
+} 
+
+.braun{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+
+.lila{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    background-color: violet;
+    height: 50px;
+    width: 50px;
+}
+.gelb{
+    height: 120px;
+    background-color: yellow;
+    display: flex;
+    justify-content: right;
+    
+}
+
+#eins{
+    height: 30px;
+    width: 30px;
+    background-color: yellowgreen;
+    margin-top: 45px;
+    margin-right: 10px;
+}
+#zwei{
+    height: 30px;
+    width: 30px;
+    background-color: yellowgreen;
+    margin-top: 45px;
+    margin-right: 10px;
+    
+}
+#drei{
+    height: 30px;
+    width: 30px;
+    background-color: yellowgreen;
+    margin-top: 45px;
+    margin-right: 10px;
+}

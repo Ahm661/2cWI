@@ -1,0 +1,11 @@
+.upper{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+body{
+    
+    background-color: black;
+}
+
+
