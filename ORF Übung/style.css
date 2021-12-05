@@ -17,9 +17,10 @@ body{
     background-color:red;
     height: 20px;
     display: flex;
-    justify-content: space-around;
+    justify-content: start;
     position: relative;
     top: -120px;
+    
 }
 
 .untermenu2{
@@ -32,11 +33,14 @@ body{
 
 li{
     display: inline-block;
+    margin-right: 68px;
+    
 }
 
 
 .logo{
     height: 100px;
-    right: 0%;
+    left: 30%;
     position: absolute;
 }
+
