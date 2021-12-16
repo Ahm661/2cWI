@@ -29,13 +29,15 @@ body{
     height: 20px;
     position: relative;
     top: 0px;
+    display: flex;
+    justify-content: space-around;
 }
 
 
 
 li{
     display: inline-block;
-    margin-right: 68px;
+    margin-right: 65px;
     
 }
 
@@ -51,6 +53,14 @@ li{
         color: white;
         position: relative;
         bottom: 15px;
+}
+.Corona{
+    width: 600px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    left: 300px;
+    top: 300px;
 }
 
 
