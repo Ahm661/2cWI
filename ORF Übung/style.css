@@ -8,9 +8,10 @@ body{
 
 
 .menu{
-    background-color: tomato;
-    height: 100px;
+    background-color: rgb(182, 27, 0);
+    height: 50px;
     position: relative;
+    top: 20px;
 }
 
 .untermenu1{
@@ -19,14 +20,15 @@ body{
     display: flex;
     justify-content: start;
     position: relative;
-    top: -120px;
+    top: -86px;
     
 }
 
 .untermenu2{
     background-color: red;
     height: 20px;
-   
+    position: relative;
+    top: 0px;
 }
 
 
@@ -39,8 +41,16 @@ li{
 
 
 .logo{
-    height: 100px;
-    left: 30%;
-    position: absolute;
+    width: 128px;
+     margin-left: 0px;
+    background-color: rgb(182, 27, 0);
+    margin-left: 100px;
 }
+
+.schrift{
+        color: white;
+        position: relative;
+        bottom: 15px;
+}
+
 
