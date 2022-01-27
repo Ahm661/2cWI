@@ -8,4 +8,6 @@ if (number<20){
 else if (number<50){
     console.log("Medium");
 }
-else 
+else {
+    console.log("Large")
+}
