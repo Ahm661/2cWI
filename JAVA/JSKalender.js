@@ -1,15 +1,4 @@
-printMonth(31);
-printMonth(28);
-printMonth(31);
-printMonth(30);
-printMonth(31);
-printMonth(30);
-printMonth(31);
-printMonth(31);
-printMonth(30);
-printMonth(31);
-printMonth(30);
-printMonth(31);d3qa
+printMonth(31);printMonth(28);printMonth(31);printMonth(30);printMonth(31);printMonth(30);printMonth(31);printMonth(31);printMonth(30);printMonth(31);printMonth(30);printMonth(31);
 
 function printMonth(amountOFdays){
     days = "";
@@ -28,8 +17,7 @@ function printMonth(amountOFdays){
         }
         
     }
-    
-    console.log(days);
+     console.log(days);
 }
 
 
